@@ -15,3 +15,8 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 - [Explore databases](./docs/module_1/databases.md)
 - [Explore transactional data processing](./docs/module_1/transactional.md)
 - [Explore analytical data processing](./docs/module_1/analytical.md)
+
+### 2. Explore data roles and services
+
+- [Explore job roles in the world of data](./docs/module_2/job_roles.md)
+- [Identify data services](./docs/module_2/data_services.md)
