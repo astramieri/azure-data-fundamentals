@@ -7,4 +7,4 @@ The three key job roles that deal with data in most organizations are:
 - **data engineers** manage infrastructure and processes for data integration across the organization, applying data cleaning routines, identifying data governance rules, and implementing pipelines to transfer and transform data between systems
 - **data analysts** explore and analyze data to create visualizations and charts that enable organizations to make informed decisions
 
-NOTE. The roles described here represent the key data-related roles found in most medium to large organizations. There are additional data-related roles not mentioned here, such as data scientist and data architect; and there are other technical professionals that work with data, including application developers and software engineers.
+The roles described here represent the key data-related roles found in most medium to large organizations. There are additional data-related roles not mentioned here, such as data scientist and data architect; and there are other technical professionals that work with data, including application developers and software engineers.

@@ -20,3 +20,8 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 
 - [Explore job roles in the world of data](./docs/module_2/job_roles.md)
 - [Identify data services](./docs/module_2/data_services.md)
+
+### 3. Explore fundamental relational data concepts
+
+- [Understand relational data](./docs/module_3/understand_data.md)
+- [Understand normalization](./docs/module_3/understand_normalization.md)
