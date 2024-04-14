@@ -27,3 +27,8 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 - [Understand normalization](./docs/module_3/understand_normalization.md)
 - [Explore SQL](./docs/module_3/explore_sql.md)
 - [Describe database objects](./docs/module_3/database_objects.md)
+
+### 4. Explore relational database services in Azure
+
+- [Describe Azure SQL services and capabilities](./docs/module_4/azure_sql_services.md)
+- [Describe Azure services for open-source databases](./docs/module_4/open_source_databases.md)
