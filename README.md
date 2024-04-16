@@ -32,3 +32,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 
 - [Describe Azure SQL services and capabilities](./docs/module_4/azure_sql_services.md)
 - [Describe Azure services for open-source databases](./docs/module_4/open_source_databases.md)
+
+### 5. Explore Azure Storage for non-relational data
+
+- [Explore Azure blob storage](./docs/module_5/blob_storage.md)
