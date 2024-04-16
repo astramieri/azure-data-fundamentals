@@ -35,4 +35,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 
 ### 5. Explore Azure Storage for non-relational data
 
-- [Explore Azure blob storage](./docs/module_5/blob_storage.md)
+- [Explore Azure Blob Storage](./docs/module_5/azure_blob_storage.md)
+- [Explore Azure DataLake Storage Gen2](./docs/module_5/azure_datalake_storage.md)
+- [Explore Azure Files](./docs/module_5/azure_files.md)
+- [Explore Azure Tables](./docs/module_5/azure_tables.md)
