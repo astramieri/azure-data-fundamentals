@@ -60,9 +60,15 @@ You can start building apps on a single node server group, the same way you woul
 
 PostgreSQL is a relational database management system (RDBMS) in which you define relational tables of data.
 
+## Azure Cosmos DB for Table
+
+Azure Cosmos DB for Table is used to work with data in **key-value tables** similar to Azure Table Storage. It offers **greater scalability** and performance than Azure Table Storage. 
+
 ## Azure Cosmos DB for Apache Cassandra
 
-Azure Cosmos DB for Apache Cassandra is compatible with Apache Cassandra, which is a popular open source database that uses a column-family storage structure. Column families are tables, similar to those in a relational database, with the exception that it's not mandatory for every row to have the same columns.
+Azure Cosmos DB for Apache Cassandra is compatible with Apache Cassandra, which is a popular open source database that uses a column-family storage structure. 
+
+Column families are tables, similar to those in a relational database, with the exception that it's not mandatory for every row to have the same columns.
 
 ## Azure Cosmos DB for Apache Gremlin
 
