@@ -43,3 +43,4 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 ### 6. Explore fundamentals of Azure Cosmos DB
 
 - [Describe Azure Cosmos DB](./docs/module_6/azure_comsos_db.md)
+- [Identify Azure Cosmos DB APIs](./docs/module_6/azure_comsos_db_apis.md)
