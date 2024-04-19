@@ -39,3 +39,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 - [Explore Azure DataLake Storage Gen2](./docs/module_5/azure_datalake_storage.md)
 - [Explore Azure Files](./docs/module_5/azure_files.md)
 - [Explore Azure Tables](./docs/module_5/azure_tables.md)
+
+### 6. Explore fundamentals of Azure Cosmos DB
+
+- [Describe Azure Cosmos DB](./docs/module_6/azure_comsos_db.md)
