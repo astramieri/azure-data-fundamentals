@@ -49,3 +49,4 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 
 - [Large-scale data anlytics](./docs/module_7/large_scale_data_analytics.md)
 - [Describe data warehousing architecture](./docs/module_7/data_warehouse_architecture.md)
+- [Explore data ingestion pipelines](./docs/module_7/data_ingestion_pipeline.md)
