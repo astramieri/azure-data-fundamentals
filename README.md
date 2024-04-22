@@ -53,3 +53,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 - [Explore analytical data stores](./docs/module_7/analytical_data_store.md)
 - [Explore platform-as-a-service (PaaS) solutions](./docs/module_7/paas_solutions.md)
 - [Explore Microsoft Fabric](./docs/module_7/microsoft_fabric.md)
+
+### 8. Explore fundamentals of real-time analytics
+
+- [Understand batch and stream processing](./docs/module_8/batch_vs_stream.md)
