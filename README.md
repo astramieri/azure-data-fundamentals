@@ -57,3 +57,4 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 ### 8. Explore fundamentals of real-time analytics
 
 - [Understand batch and stream processing](./docs/module_8/batch_vs_stream.md)
+- [A general architecture for stream processing](./docs/module_8/general_architecture.md)
