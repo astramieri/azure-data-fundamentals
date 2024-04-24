@@ -65,3 +65,4 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 ### 9. Explore fundamentals of data visualization
 
 - [Describe Power BI tools and workflow](./docs/module_9/power_bi.md)
+- [Describe core concepts of data modeling](./docs/module_9/data_modeling.md)
