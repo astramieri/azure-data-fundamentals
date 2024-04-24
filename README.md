@@ -61,3 +61,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 - [Explore Azure Stream Analytics](./docs/module_8/stream_analytics.md)
 - [Explore Apache Spark on Microsoft Azure](./docs/module_8/apache_spark.md)
 - [Explore Realtime Analytics in Microsoft Fabric](./docs/module_8/fabric.md)
+
+### 9. Explore fundamentals of data visualization
+
+- [Describe Power BI tools and workflow](./docs/module_9/power_bi.md)
