@@ -12,5 +12,5 @@ OLTP systems enforce transactions that support so-called ACID semantics:
 - **Isolation**: concurrent transactions cannot interfere with one another, and must result in a consistent database state. 
 - **Durability**: when a transaction has been committed, it will remain committed.
 
-OLTP systems are typically used to support live applications that process business data - often referred to as line of business (LOB) applications.
+OLTP systems are typically used to support live applications that process business data often referred to as line of business (LOB) applications.
 
