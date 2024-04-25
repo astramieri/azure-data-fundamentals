@@ -3,7 +3,7 @@
 You can classify data as:
 - structured
 - semi-structured
-- unstructured
+- un-structured
 
 There are two broad categories of data store in common use:
 - file stores
@@ -23,11 +23,6 @@ Semi-structured data is information that has some structure, but which allows fo
 
 One common format for semi-structured data is *JavaScript Object Notation (JSON)*.
 
-## Unstructured data
+## Un-structured data
 
 Not all data is structured or even semi-structured. For example, documents, images, audio and video data, and binary files might not have a specific structure. This kind of data is referred to as unstructured data.
-
-## Data stores
-
-
-
