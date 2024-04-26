@@ -42,12 +42,14 @@ Stream processing is ideal for **time-critical operations that require an instan
 | **Performance** | The latency (*) for batch processing is typically a few hours. | Stream processing typically occurs immediately, with latency (*) in the order of seconds or milliseconds. |
 | **Analysis** | You typically use batch processing to perform complex analytics. | Stream processing is used for simple response functions, aggregates, or calculations such as rolling averages. |
 
-(*) Latency is the time taken for the data to be received and processed. 
+(*) *Latency* is the time taken for the data to be received and processed. 
 
 ## Combine batch and stream processing
 
-Many large-scale analytics solutions include **a mix of batch and stream processing**, enabling both historical and real-time data analysis. It's common for stream processing solutions to capture real-time data, process it by filtering or aggregating it, and present it through real-time dashboards and visualizations, while also persisting the processed results in a data store for historical analysis alongside batch processed data.
+Many large-scale analytics solutions include **a mix of batch and stream processing**, enabling both historical and real-time data analysis. 
+
+It's common for stream processing solutions to capture real-time data, process it by filtering or aggregating it, and present it through real-time dashboards and visualizations, while also persisting the processed results in a data store for historical analysis alongside batch processed data.
 
 Even when real-time analysis or visualization of data is not required, streaming technologies are often used to capture real-time data and store it in a data store for subsequent batch processing.
 
-Commonly used solution architectures for combined batch and stream data processing include *lambda and delta architectures*. 
+Commonly used solution architectures for combined batch and stream data processing include *lambda* and *delta architectures*. 
