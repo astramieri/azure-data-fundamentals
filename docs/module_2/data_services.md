@@ -4,7 +4,7 @@
 
 ## Azure SQL
 
-Azure SQL is the collective name for a family of **relational database solutions** based on the **Microsoft SQL Server** database engine. 
+**Azure SQL** is the collective name for a family of **relational database solutions** based on the **Microsoft SQL Server** database engine. 
 
 Specific Azure SQL services include:
 - **Azure SQL Database**: a fully managed platform-as-a-service (PaaS) database hosted in Azure
@@ -43,7 +43,7 @@ Azure Data Factory is used by data engineers to build extract, transform, and lo
 - **Pipelines**: based on the same technology as Azure Data Factory.
 - **SQL**: a highly scalable SQL database engine, optimized for data warehouse workloads
 - **Apache Spark**: an open-source distributed data processing system that supports multiple programming languages and APIs, including Java, Scala, Python, and SQL
-- **Azure Synapse Data Explorer**: a high-performance data analytics solution that is optimized for real-time querying of log and telemetry data using Kusto Query Language (KQL)
+- **Data Explorer**: a high-performance data analytics solution that is optimized for real-time querying of log and telemetry data using Kusto Query Language (KQL)
 
 ## Azure Databricks
 
@@ -51,10 +51,10 @@ Azure Data Factory is used by data engineers to build extract, transform, and lo
 
 ## Azure HDInsight
 
-**Azure HDInsight** is an Azure service that provides Azure-hosted **clusters** for popular Apache open-source big data processing technologies, including:
+**Azure HDInsight** is an Azure service that provides Azure-hosted clusters for popular Apache open-source big data processing technologies, including:
 - **Apache Spark**: a distributed data processing system that supports multiple programming languages and APIs, including Java, Scala, Python, and SQL
 - **Apache Hadoop**: a distributed system that uses MapReduce jobs to process large volumes of data efficiently across multiple cluster nodes
-**Apache HBase**: an open-source system for large-scale NoSQL data storage and querying
+- **Apache HBase**: an open-source system for large-scale NoSQL data storage and querying
 - **Apache Kafka**: a message broker for data stream processing.
 
 ## Azure Stream Analytics
@@ -75,7 +75,7 @@ Azure Data Factory is used by data engineers to build extract, transform, and lo
 - Data ingestion and ETL
 - Data lakehouse analytics
 - Data warehouse analytics
-- Data Science and machine learning
+- Data science and machine learning
 - Realtime analytics
 - Data visualization
 - Data governance and management
