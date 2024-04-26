@@ -6,7 +6,7 @@ Azure Data Lake Store (Gen1) is a separate service for hierarchical data storage
 
 To create an Azure Data Lake Store Gen2 files system, you must enable the **Hierarchical Namespace** option of an Azure Storage account. 
 
-You can do this when initially creating the storage account, or you can upgrade an existing Azure Storage account to support Data Lake Gen2. Be aware however that upgrading is a one-way process. After upgrading a storage account to support a hierarchical namespace for blob storage, you can’t revert it to a flat namespace.
+You can do this when initially creating the storage account, or you can upgrade an existing Azure Storage account to support Data Lake Gen2. Be aware however that upgrading is a **one-way process**. After upgrading a storage account to support a hierarchical namespace for blob storage, you can’t revert it to a flat namespace.
 
 ![Azure Data Lake Storage Gen2](azure_datalake_storage.png)
 

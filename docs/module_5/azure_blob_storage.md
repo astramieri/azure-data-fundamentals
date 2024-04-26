@@ -1,25 +1,25 @@
 # Explore Azure Blob Storage
 
-**Azure Blob Storage** is a service that enables you to store massive amounts of unstructured data as binary large objects, or blobs, in the cloud. 
+**Azure Blob Storage** is a service that enables you to store massive amounts of unstructured data as binary large objects (i.e. blobs) in the cloud. 
 
-Blobs are an efficient way to store data files in a format that is optimized for cloud-based storage, and applications can read and write them by using the Azure blob storage API.
+Blobs are an efficient way to store data files in a format that is optimized for cloud-based storage and applications can read and write them by using the Azure blob storage API.
 
-In an Azure storage account, you store blobs in **containers**. A container provides a convenient way of grouping related blobs together. You control who can read and write blobs inside a container at the container level.
+In an **Azure Storage Account**, you store blobs in **containers**. A container provides a convenient way of grouping related blobs together. You control who can read and write blobs inside a container at the container level.
 
-Within a container, you can organize blobs in a hierarchy of virtual folders, similar to files in a file system on disk. However, by default, these folders are simply a way of using a "/" character in a blob name to organize the blobs into namespaces. The **folders are purely virtual**, and you can't perform folder-level operations to control access or perform bulk operations.
+Within a container, you can organize blobs in a hierarchy of virtual folders, similar to files in a file system on disk. However *by default* these folders are simply a way of using a "/" character in a blob name to organize the blobs into namespaces. The **folders are purely virtual**, and you can't perform folder-level operations to control access or perform bulk operations.
 
 ![Azure Blob Storage](azure_blob_storage.png)
 
 ## Types of blob data
 
 Azure Blob Storage supports three different types of blob:
-- **block blob**
+- **block**
     - they are best used to store discrete, large, binary objects that change infrequently
-- **page blobs**
+- **page**
     - a page blob is optimized to support random read and write operations
     - a page blob can hold up to 8 TB of data
     - Azure uses page blobs to implement virtual disk storage for virtual machines
-- **append blobs**: 
+- **append**: 
     - an append blob is a block blob optimized to support append operations
     - you can only add blocks to the end of an append blob
     - updating or deleting existing blocks isn't supported
