@@ -5,9 +5,9 @@ Large-scale data analytics architecture can vary, as can the specific technologi
     - Data from one or more transactional data stores, files, real-time streams, or other sources is loaded into a data lake or a relational data warehouse 
     - The data processing is often performed by distributed systems that can process high volumes of data in parallel using multi-node clusters
     - Data ingestion includes both **batch processing** of static data and **real-time processing** of streaming data
-- **Analytical data store**
+- **Data store**
     - Data stores for large scale analytics include relational data warehouses, file-system based data lakes, and hybrid architectures that combine features of data warehouses and data lakes (sometimes called data lakehouses or lake databases)
-- **Analytical data model**
+- **Data model**
     - It’s common to create one or more data models that pre-aggregate the data to make it easier to produce reports, dashboards, and interactive visualizations
     - The model encapsulates the relationships between data values and dimensional entities to support *drill-up and drill-down* analysis
 - **Data visualization** 

@@ -1,6 +1,6 @@
 # Explore platform-as-a-service (PaaS) solutions
 
-On Azure, there are three main platform-as-a-service (PaaS) services that you can use to implement a large-scale analytical store:
+On Azure, there are three main platform-as-a-service (PaaS) services that you can use to implement a large-scale analytics:
 - Azure Synapse Analytics
 - Azure Databricks
 - Azure HDInsight
@@ -13,7 +13,9 @@ It brings together multiple technologies and capabilities, enabling you to combi
 
 It also includes native support for log and telemetry analytics with Azure Synapse Data Explorer pools, as well as built in data pipelines for data ingestion and transformation. 
 
-All Azure Synapse Analytics services can be managed through a single, interactive user interface called **Azure Synapse Studio**, which includes the ability to create interactive notebooks in which Spark code and markdown content can be combined. Synapse Analytics is a great choice when you want to create a single, unified analytics solution on Azure.
+All Azure Synapse Analytics services can be managed through a single, interactive user interface called **Azure Synapse Studio**, which includes the ability to create interactive notebooks in which Spark code and markdown content can be combined. 
+
+Synapse Analytics is a great choice when you want to create a single, unified analytics solution on Azure.
 
 ## Azure Databricks
 
@@ -21,7 +23,9 @@ All Azure Synapse Analytics services can be managed through a single, interactiv
 
 Databricks is a comprehensive data analytics solution built on Apache Spark, and offers native SQL capabilities as well as workload-optimized Spark clusters for data analytics and data science. 
 
-Databricks provides an interactive user interface through which the system can be managed and data can be explored in interactive notebooks. Due to its common use on multiple cloud platforms, you might want to consider using Azure Databricks as your analytical store if you want to use existing expertise with the platform or if you need to operate in a multicloud environment or support a cloud-portable solution.
+Databricks provides an interactive user interface through which the system can be managed and data can be explored in interactive notebooks. 
+
+Due to its common use on multiple cloud platforms, you might want to consider using Azure Databricks as your analytical store if you want to use existing expertise with the platform or if you need to operate in a multicloud environment or support a cloud-portable solution.
 
 ## Azure HDInsight
 
