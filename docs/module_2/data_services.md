@@ -21,7 +21,9 @@ Azure includes managed services for popular open-source relational database syst
 
 ## Azure Cosmos DB
 
-**Azure Cosmos DB** is a global-scale **non-relational (NoSQL) database** system that supports multiple application programming interfaces (APIs), enabling you to store and manage data as JSON documents, key-value pairs, column-families, and graphs.
+**Azure Cosmos DB** is a global-scale **relational and non-relational database** system that supports multiple application programming interfaces (APIs), enabling you to store and manage data as relational tables, JSON documents, key-value pairs, column-families, and graphs.
+
+Azure Cosmos DB is a fully managed and serverless distributed database for applications of any size or scale, with **support for both relational and non-relational workloads**. When you provision a new Cosmos DB instance, you **select the database engine** that you want to use (e.g. PostgreSQL, MongoDB, etc.)
 
 ## Azure Storage
 

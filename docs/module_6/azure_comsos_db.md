@@ -15,7 +15,7 @@ Cosmos DB is a **highly scalable database management system**.
 Cosmos DB automatically allocates space in a container for your partitions, and each partition can grow up to 10 GB in size. Indexes are created and maintained automatically. There's virtually no administrative overhead.
 
 Cosmos DB is highly suitable for the following scenarios:
-- **IoT and Telematics**
-- **Retail and Marketing**
-- **Gaming**
 - **Web and Mobile Applications**
+- **Retail and Marketing**
+- **IoT and Telematics**
+- **Gaming**
