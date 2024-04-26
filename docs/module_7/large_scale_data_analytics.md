@@ -1,6 +1,6 @@
 # Large-scale data analytics
 
-Large-scale data analytics solutions combine conventional data warehousing used to support business intelligence (BI) with data lakehouse techniques that are used to integrate data from files and external sources. 
+Large-scale data analytics solutions combine conventional **data warehousing** used to support business intelligence (BI) with **data lakehouse techniques** that are used to integrate data from files and external sources. 
 
 A conventional data warehousing solution typically involves copying data from transactional data stores into a relational database with a schema that's optimized for querying and building multidimensional models. 
 
