@@ -6,7 +6,7 @@ In addition to Azure SQL services, Azure data services are available for other p
 
 MySQL started life as a simple-to-use open-source database management system. It's the leading open source relational database for Linux, Apache, MySQL, and PHP (LAMP) stack apps. 
 
-It's available in several editions; Community, Standard, and Enterprise. The Community edition is available free-of-charge, and has historically been popular as a database management system for web applications, running under Linux.
+It's available in several editions: Community, Standard, and Enterprise. The Community edition is available free-of-charge, and has historically been popular as a database management system for web applications, running under Linux.
 
 **Azure Database for MySQL** is a PaaS implementation of MySQL in the Azure cloud, based on the MySQL Community Edition.
 
