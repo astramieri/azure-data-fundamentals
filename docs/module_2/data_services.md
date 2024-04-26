@@ -7,9 +7,10 @@
 **Azure SQL** is the collective name for a family of **relational database solutions** based on the **Microsoft SQL Server** database engine. 
 
 Specific Azure SQL services include:
-- **Azure SQL Database**: a fully managed platform-as-a-service (PaaS) database hosted in Azure
-- **Azure SQL Managed Instance**: a hosted instance of SQL Server with automated maintenance, which allows more flexible configuration than Azure SQL DB but with more administrative responsibility for the owner
 - **Azure SQL VM**: a virtual machine with an installation of SQL Server, allowing maximum configurability with full management responsibility
+- **Azure SQL Managed Instance**: a hosted instance of SQL Server with automated maintenance, which allows more flexible configuration than Azure SQL DB but with more administrative responsibility for the owner
+- **Azure SQL Database**: a fully managed platform-as-a-service (PaaS) database hosted in Azure
+- **Azure SQL Edge**: a SQL engine that is optimized for Internet-of-things (IoT) scenarios that need to work with streaming time-series data
 
 ## Azure Database for open-source relational databases
 

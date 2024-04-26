@@ -10,7 +10,7 @@
     - The service includes automated software update management, backups, and other maintenance tasks
     - You can install multiple databases on the same instance
 - **Azure SQL Database** 
-    - A fully managed, highly scalable PaaS database service that is designed for the cloud. 
+    - A fully managed, highly scalable PaaS database service that is designed for the cloud
     - This service includes the core database-level capabilities of on-premises SQL Server
     - It supports *point-in-time restore*, enabling you to recover a database to the state it was in at any point in the past
     - It is a good option when you need to create a new application in the cloud
