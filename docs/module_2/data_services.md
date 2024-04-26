@@ -1,6 +1,6 @@
 # Identify data services
 
-Microsoft Azure is a cloud platform that powers the applications and IT infrastructure for some of the world's largest organizations. It includes many services to support cloud solutions, including transactional and analytical data workloads.
+**Microsoft Azure** is a cloud platform that powers the applications and IT infrastructure for some of the world's largest organizations. It includes many services to support cloud solutions, including transactional and analytical data workloads.
 
 ## Azure SQL
 
