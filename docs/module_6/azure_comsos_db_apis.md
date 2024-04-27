@@ -72,6 +72,7 @@ PostgreSQL is a relational database management system (RDBMS) in which you defin
 
 Column families are tables, similar to those in a relational database, with the exception that it's not mandatory for every row to have the same columns.
 
+The Cassandra API is queried by using SQL.
 ## Azure Cosmos DB for Apache Gremlin
 
 **Azure Cosmos DB for Apache Gremlin** is used with data in a **graph structure** in which entities are defined as vertices that form nodes in connected graph.
