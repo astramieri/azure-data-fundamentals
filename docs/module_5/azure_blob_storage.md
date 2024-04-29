@@ -44,3 +44,17 @@ Blob storage provides three access tiers, which help to balance access latency a
 A lifecycle management policy can automatically move a blob from Hot to Cool, and then to the Archive tier, as it ages and is used less frequently (policy is based on the number of days since modification). 
 
 A lifecycle management policy can also arrange to delete outdated blobs.
+
+## Data Redundancy
+
+For applications requiring high durability, you can choose to additionally copy the data in your storage account to a secondary region that is hundreds of miles away from the primary region.
+
+When you create a storage account, you select the primary region for the account. The paired secondary region is determined based on the primary region, and can't be changed. 
+
+Azure Storage offers two options for copying your data to a secondary region:
+- **Geo-redundant storage (GRS)** copies your data synchronously three times within a single physical location in the primary region using **LRS**. It then copies your data asynchronously to a single physical location in the secondary region. Within the secondary region, your data is copied synchronously three times using LRS.
+- **Geo-zone-redundant storage (GZRS)** copies your data synchronously across three Azure availability zones in the primary region using **ZRS**. It then copies your data asynchronously to a single physical location in the secondary region. Within the secondary region, your data is copied synchronously three times using LRS.
+
+The primary difference between GRS and GZRS is how data is replicated in the primary region. Within the secondary region, data is always replicated synchronously three times using LRS. LRS in the secondary region protects your data against hardware failures.
+
+**With GRS or GZRS, the data in the secondary region isn't available for read or write access unless there's a failover to the primary region.** For read access to the secondary region, configure your storage account to use read-access geo-redundant storage (RA-GRS) or read-access geo-zone-redundant storage (RA-GZRS). 
