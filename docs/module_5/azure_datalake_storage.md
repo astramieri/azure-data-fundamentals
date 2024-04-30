@@ -8,6 +8,8 @@ To create an Azure Data Lake Store Gen2 files system, you must enable the **Hier
 
 You can do this when initially creating the storage account, or you can upgrade an existing Azure Storage account to support Data Lake Gen2. Be aware however that upgrading is a **one-way process**. After upgrading a storage account to support a hierarchical namespace for blob storage, you can’t revert it to a flat namespace.
 
+Azure Data Lake Storage Gen2 implements an access control model that supports both Azure role-based access control (Azure RBAC) and POSIX-like access control lists (ACLs).
+
 ![Azure Data Lake Storage Gen2](azure_datalake_storage.png)
 
 
