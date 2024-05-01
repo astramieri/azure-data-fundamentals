@@ -22,4 +22,16 @@
 
 ## Azure SQL Database Firewall
 
-The **Azure SQL Database firewall** lets you decide which IP addresses may or may not have access to either your Azure SQL Server or your Azure SQL database. When creating an Azure SQL Database, the firewall needs to be configured before anyone will be able to access the database. By default, no external access to your SQL Database will be allowed until you explicitly assign permission by creating a firewall rule.
+The **Azure SQL Database firewall** lets you decide which IP addresses may or may not have access to either your Azure SQL Server or your Azure SQL database. 
+
+When creating an Azure SQL Database, the firewall needs to be configured before anyone will be able to access the database. By default, no external access to your SQL Database will be allowed until you explicitly assign permission by creating a firewall rule.
+ 
+## SQL Server Management Studio (SSMS)
+
+SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database.
+
+## Microsoft SQL Server Data Tools (SSDT)
+
+SQL Server Data Tools (SSDT) is a modern development tool for building SQL Server relational databases, databases in Azure SQL, Analysis Services (AS) data models, Integration Services (IS) packages, and Reporting Services (RS) reports. 
+
+With SSDT, you can design and deploy any SQL Server content type with the same ease as you would develop an application in Visual Studio.
