@@ -19,3 +19,7 @@
     - You can use the **Azure SQL Migration extension for Azure Data Studio** to detect compatibility issues with your databases that can impact database functionality in Azure SQL Database
 - **Azure SQL Edge** 
     - A SQL engine that is optimized for Internet-of-things (IoT) scenarios that need to work with streaming time-series data
+
+## Azure SQL Database Firewall
+
+The **Azure SQL Database firewall** lets you decide which IP addresses may or may not have access to either your Azure SQL Server or your Azure SQL database. When creating an Azure SQL Database, the firewall needs to be configured before anyone will be able to access the database. By default, no external access to your SQL Database will be allowed until you explicitly assign permission by creating a firewall rule.
