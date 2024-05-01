@@ -20,6 +20,10 @@
 - **Azure SQL Edge** 
     - A SQL engine that is optimized for Internet-of-things (IoT) scenarios that need to work with streaming time-series data
 
+## Transparent Data Encryption (TDE)
+
+Transparent Data Encryption (TDE) protects Azure SQL database, Azure Synapse Analytics, and Azure SQL Managed Instance against malicious offline activities by *encrypting the data at rest*.
+
 ## Azure SQL Database Firewall
 
 The **Azure SQL Database firewall** lets you decide which IP addresses may or may not have access to either your Azure SQL Server or your Azure SQL database. 
