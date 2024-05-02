@@ -13,4 +13,3 @@ OLTP systems enforce transactions that support so-called ACID semantics:
 - **Durability**: when a transaction has been committed, it will remain committed.
 
 OLTP systems are typically used to support live applications that process business data often referred to as line of business (LOB) applications.
-

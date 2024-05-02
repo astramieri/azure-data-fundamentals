@@ -5,7 +5,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 ## Links
 
 - [Course Syllabus](https://learn.microsoft.com/en-us/training/courses/dp-900t00)
-- [Full Course (FreeCode)](https://www.youtube.com/watch?v=P3qmqUZJ7l0)
+- [FreeCodeCamp Youtube Course](https://www.youtube.com/watch?v=P3qmqUZJ7l0)
 
 ## Modules
 
@@ -16,6 +16,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 - [Databases](./docs/module_1/databases.md)
 - [Transactional data processing](./docs/module_1/transactional.md)
 - [Analytical data processing](./docs/module_1/analytical.md)
+- [Row and Column Store](./docs/module_1/rows_vs_columns.md)
 
 ### 2. Data roles and services
 
@@ -47,7 +48,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 - [Describe Azure Cosmos DB](./docs/module_6/azure_comsos_db.md)
 - [Identify Azure Cosmos DB APIs](./docs/module_6/azure_comsos_db_apis.md)
 
-### 7. Explore fundamentals of large-scale analytics
+### 7. Fundamentals of large-scale analytics
 
 - [Large-scale data analytics](./docs/module_7/large_scale_data_analytics.md)
 - [Describe data warehousing architecture](./docs/module_7/data_warehouse_architecture.md)
@@ -58,7 +59,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 
 ### 8. Explore fundamentals of real-time analytics
 
-- [Understand batch and stream processing](./docs/module_8/batch_vs_stream.md)
+- [Batch and stream processing](./docs/module_8/batch_vs_stream.md)
 - [A general architecture for stream processing](./docs/module_8/general_architecture.md)
 - [Explore Azure Stream Analytics](./docs/module_8/stream_analytics.md)
 - [Explore Apache Spark on Microsoft Azure](./docs/module_8/apache_spark.md)

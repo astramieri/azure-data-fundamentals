@@ -14,6 +14,8 @@ A **stored procedure** defines SQL statements that can be run on command. Stored
 
 An **index** helps you search for data in a table. An index consumes storage space, and each time you insert, update, or delete data in a table, the indexes for that table must be maintained. This additional work can slow down insert, update, and delete operations.
 
+A common data structure of an index is a **Balanced Tree (B-Tree)**.
+
 An index can be:
 - **Clustered**
     - Clustered indexes sort and store the data rows in the table or view based on their key values

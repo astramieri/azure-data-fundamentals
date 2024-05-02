@@ -1,4 +1,4 @@
-# Understand batch and stream processing
+# Batch and stream processing
 
 Data processing is simply the conversion of raw data to meaningful information through a process. 
 
@@ -17,6 +17,7 @@ A real world example of batch processing is the way that credit card companies h
 **Advantages** of batch processing include:
 - large volumes of data can be processed at a convenient time
 - it can be scheduled to run at a time when computers or systems might otherwise be idle, such as overnight, or during off-peak hours
+- it is more cost-effective
 
 **Disadvantages** of batch processing include:
 - the time delay between ingesting the data and getting the results

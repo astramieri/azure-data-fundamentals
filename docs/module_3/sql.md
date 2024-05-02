@@ -5,7 +5,7 @@
 Many database management systems also have their own additional proprietary extensions to handle the specifics of that database management system. These extensions provide functionality not covered by the SQL standard, and include areas such as security management and programmability.
 
 Some popular dialects of SQL include:
-- **Transact-SQL (T-SQL)**: this version of SQL is used by Microsoft SQL Server and Azure SQL services
+- **T-SQL**: this is the dialect used Microsoft SQL Server and Azure SQL services
 - **pgSQL**: this is the dialect used by PostgreSQL
 - **PL/SQL**: this is the dialect used by Oracle
 
