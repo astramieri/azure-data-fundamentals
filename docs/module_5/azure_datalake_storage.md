@@ -10,6 +10,8 @@ You can do this when initially creating the storage account, or you can upgrade 
 
 Azure Data Lake Storage Gen2 implements an access control model that supports both Azure role-based access control (Azure RBAC) and POSIX-like access control lists (ACLs).
 
+Azure Data Lake Store is compatible with the Hadoop Distributed File System (HDFS). Hadoop jobs can be run through Azure HDInsight that can write and read data in the Data Lake Store efficiently.
+
 ![Azure Data Lake Storage Gen2](azure_datalake_storage.png)
 
 
