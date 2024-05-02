@@ -64,7 +64,9 @@ PostgreSQL is a relational database management system (RDBMS) in which you defin
 
 ## Azure Cosmos DB for Table
 
-**Azure Cosmos DB for Table** is used to work with data in **key-value tables** similar to Azure Table Storage. It offers **greater scalability** and performance than Azure Table Storage. 
+**Azure Cosmos DB for Table** is used to work with data in **key-value tables** similar to Azure Table Storage. 
+
+It offers **greater scalability** and performance than Azure Table Storage and provides resiliency if an Azure region declines. 
 
 ## Azure Cosmos DB for Apache Cassandra
 
@@ -73,6 +75,7 @@ PostgreSQL is a relational database management system (RDBMS) in which you defin
 Column families are tables, similar to those in a relational database, with the exception that it's not mandatory for every row to have the same columns.
 
 The Cassandra API is queried by using SQL.
+
 ## Azure Cosmos DB for Apache Gremlin
 
 **Azure Cosmos DB for Apache Gremlin** is used with data in a **graph structure** in which entities are defined as vertices that form nodes in connected graph.
