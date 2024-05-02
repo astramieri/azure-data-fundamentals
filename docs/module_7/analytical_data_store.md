@@ -1,4 +1,4 @@
-# Explore analytical data store
+# Analytical data store
 
 There are two common types of analytical data store:
 - Data Warehouses
@@ -12,6 +12,14 @@ Commonly, the data from a transactional store is transformed into a schema in wh
 
 A data warehouse is a great choice when you have transactional data that can be organized into a structured schema of tables, and you want to use SQL to query them.
 
+## Data Marts
+
+A **data mart** is a subset of a data warehouse.
+
+Data marts allow different teams or departments to have control over their own dataset for their specific use case (sales, marketing, supply chains, etc.). 
+
+Data marts area generally designed to be **read-only**.
+
 ## Data Lakehouses
 
 A **data lake** is a file store, usually on a distributed file system for high performance data access. 
@@ -20,6 +28,10 @@ Technologies like Spark or Hadoop are often used to process queries on the store
 
 Data lakes are great for supporting a mix of structured, semi-structured, and even unstructured data that you want to analyze without the need for schema enforcement when the data is written to the store.
 
+If data lakes are not well-maintained they can become **data swamps** (a mess of data).
+
 You can use a hybrid approach that combines features of data lakes and data warehouses in a **data lakehouse** (or **lake database**). The raw data is stored as files in a data lake, and a relational storage layer abstracts the underlying files and expose them as tables, which can be queried using SQL. 
+
+## PolyBase
 
 SQL pools in Azure Synapse Analytics include **PolyBase**, which enables you to define external tables based on files in a data lake (and other sources) and query them using SQL. Synapse Analytics also supports a Lake Database approach in which you can use database templates to define the relational schema of your data warehouse, while storing the underlying data in data lake storage (separating the storage and compute for your data warehousing solution).
