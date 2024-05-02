@@ -1,4 +1,4 @@
-# Identify data formats
+# Data formats
 
 You can classify data as:
 - structured

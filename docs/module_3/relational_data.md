@@ -1,4 +1,4 @@
-# Understand relational data
+# Relational data
 
 In a relational database, you model collections of **entities** from the real world as tables. A table contains rows, and each row represents a single instance of an entity.
 

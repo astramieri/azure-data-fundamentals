@@ -1,4 +1,4 @@
-# Understand normalization
+# Normalization
 
 Normalization is a term used by database professionals for a schema design process that minimizes data duplication and enforces data integrity.
 

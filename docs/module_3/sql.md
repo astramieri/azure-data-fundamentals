@@ -1,4 +1,4 @@
-# Explore SQL
+# SQL
 
 **Structured Query Language (SQL)** is used to communicate with a relational database. It's the standard language for relational database management systems.
 

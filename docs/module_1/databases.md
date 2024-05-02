@@ -1,4 +1,4 @@
-# Explore databases
+# Databases
 
 A database is used to define a central system in which data can be stored and queried.
 

@@ -9,25 +9,25 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 
 ## Modules
 
-### 1. Explore core data concepts
+### 1. Core data concepts
 
-- [Identify data formats](./docs/module_1/data_formats.md)
-- [Explore file storage](./docs/module_1/file_storage.md)
-- [Explore databases](./docs/module_1/databases.md)
-- [Explore transactional data processing](./docs/module_1/transactional.md)
-- [Explore analytical data processing](./docs/module_1/analytical.md)
+- [Data formats](./docs/module_1/data_formats.md)
+- [File storage](./docs/module_1/file_storage.md)
+- [Databases](./docs/module_1/databases.md)
+- [Transactional data processing](./docs/module_1/transactional.md)
+- [Analytical data processing](./docs/module_1/analytical.md)
 
-### 2. Explore data roles and services
+### 2. Data roles and services
 
-- [Explore job roles in the world of data](./docs/module_2/job_roles.md)
-- [Identify data services](./docs/module_2/data_services.md)
+- [Data roles](./docs/module_2/data_roles.md)
+- [Data services](./docs/module_2/data_services.md)
 
-### 3. Explore fundamental relational data concepts
+### 3. Fundamental relational data concepts
 
-- [Understand relational data](./docs/module_3/understand_data.md)
-- [Understand normalization](./docs/module_3/understand_normalization.md)
-- [Explore SQL](./docs/module_3/explore_sql.md)
-- [Describe database objects](./docs/module_3/database_objects.md)
+- [Relational data](./docs/module_3/relational_data.md)
+- [Normalization](./docs/module_3/normalization.md)
+- [SQL](./docs/module_3/sql.md)
+- [Database objects](./docs/module_3/database_objects.md)
 
 ### 4. Explore relational database services in Azure
 

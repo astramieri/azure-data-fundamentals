@@ -1,4 +1,4 @@
-# Describe database objects
+# Database objects
 
 In addition to tables, a relational database can contain other structures that help to optimize data organization, encapsulate programmatic actions, and improve the speed of access. 
 

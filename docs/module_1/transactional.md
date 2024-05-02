@@ -1,4 +1,4 @@
-# Explore transactional data processing
+# Transactional data processing
 
 A transactional system records **transactions** that encapsulate specific events that the organization wants to track. 
 
