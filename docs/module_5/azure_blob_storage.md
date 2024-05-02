@@ -8,6 +8,12 @@ In an **Azure Storage Account**, you store blobs in **containers**. A container 
 
 Within a container, you can organize blobs in a hierarchy of virtual folders, similar to files in a file system on disk. However *by default* these folders are simply a way of using a "/" character in a blob name to organize the blobs into namespaces. The **folders are purely virtual**, and you can't perform folder-level operations to control access or perform bulk operations.
 
+Objects in Blob storage are accessible via:
+- Azure Storage REST API
+- Azure PowerShell
+- Azure CLI
+- Azure Storage client library
+
 ![Azure Blob Storage](azure_blob_storage.png)
 
 ## Types of blob data

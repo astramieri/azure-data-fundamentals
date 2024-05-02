@@ -15,3 +15,4 @@ SQL statements are grouped into three main logical groups:
 - Data Control Language (DCL)
 - Data Definition Language (DDL)
 - Data Manipulation Language (DML)
+- Transaction Control Language (TCL)
