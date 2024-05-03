@@ -1,6 +1,6 @@
 # Data warehouse architecture
 
-Large-scale data analytics architecture can vary, as can the specific technologies used to implement it, but in general, the following elements are included:
+A large-scale data analytics architecture includes:
 - **Data ingestion and processing**
     - Data from one or more transactional data stores, files, real-time streams, or other sources is loaded into a data lake or a relational data warehouse 
     - The data processing is often performed by distributed systems that can process high volumes of data in parallel using multi-node clusters

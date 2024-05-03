@@ -7,13 +7,15 @@ On Azure, there are three main platform-as-a-service (PaaS) services that you ca
 
 ## Azure Synapse Analytics
 
-Azure Synapse Analytics is a unified, end-to-end solution for large scale data analytics. 
+Azure Synapse Analytics is a **unified end-to-end solution for large scale data analytics**. 
 
-It brings together multiple technologies and capabilities, enabling you to combine the data integrity and reliability of a scalable, high-performance SQL Server based relational data warehouse with the flexibility of a data lake and open-source Apache Spark.
+It brings together multiple technologies and capabilities, enabling you to combine the data integrity and reliability of a scalable high-performance SQL Server based relational data warehouse with the flexibility of a data lake and open-source Apache Spark.
 
 It also includes native support for log and telemetry analytics with Azure Synapse Data Explorer pools, as well as built in data pipelines for data ingestion and transformation. 
 
-All Azure Synapse Analytics services can be managed through a single, interactive user interface called **Azure Synapse Studio**, which includes the ability to create interactive notebooks in which Spark code and markdown content can be combined. 
+All Azure Synapse Analytics services can be managed through a single interactive user interface called **Azure Synapse Studio**, which includes the ability to create interactive notebooks in which Spark code and markdown content can be combined. 
+
+**Synapse SQL** is a distributed version of T-SQL designed for data warehouse workloads. It offers both serverless and dedicated resource models for unpredictable or predictable workloads.
 
 Synapse Analytics is a great choice when you want to create a single, unified analytics solution on Azure.
 

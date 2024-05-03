@@ -62,7 +62,7 @@ Note-taking repository for Azure Data Fundamentals certification course (DP-900)
 ### 8. Fundamentals of real-time analytics
 
 - [Batch and stream processing](./docs/module_8/batch_vs_stream.md)
-- [A general architecture for stream processing](./docs/module_8/general_architecture.md)
+- [Architecture for stream processing](./docs/module_8/general_architecture.md)
 - [Azure Stream Analytics](./docs/module_8/stream_analytics.md)
 - [Apache Spark on Microsoft Azure](./docs/module_8/apache_spark.md)
 - [Realtime Analytics in Microsoft Fabric](./docs/module_8/fabric.md)
