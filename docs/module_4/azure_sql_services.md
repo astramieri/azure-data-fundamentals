@@ -1,4 +1,4 @@
-# Describe Azure SQL services and capabilities
+# Azure SQL services and capabilities
 
 **Azure SQL** is a collective term for a family of Microsoft SQL Server based database services in Azure:
 - **SQL Server on Azure Virtual Machines (VMs)**
