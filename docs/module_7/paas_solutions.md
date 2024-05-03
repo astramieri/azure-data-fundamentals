@@ -32,3 +32,11 @@ Due to its common use on multiple cloud platforms, you might want to consider us
 ## Azure HDInsight
 
 **Azure HDInsight** is an Azure service that supports multiple open-source data analytics cluster types. Although not as user-friendly as Azure Synapse Analytics and Azure Databricks, it can be a suitable option if your analytics solution relies on multiple open-source frameworks or if you need to migrate an existing on-premises Hadoop-based solution to the cloud.
+
+## Polybase
+
+Polybase is a **data virtualization feature** for SQL Server.
+
+PolyBase enables your SQL Server instance to query data with T-SQL directly from different sources without separately installing client connection software.
+
+PolyBase allows you to join data from a SQL Server instance with external data.

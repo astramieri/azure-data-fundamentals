@@ -31,9 +31,3 @@ Data lakes are great for supporting a mix of structured, semi-structured, and ev
 If data lakes are not well-maintained they can become **data swamps** (a mess of data).
 
 You can use a hybrid approach that combines features of data lakes and data warehouses in a **data lakehouse** (or **lake database**). The raw data is stored as files in a data lake, and a relational storage layer abstracts the underlying files and expose them as tables, which can be queried using SQL. 
-
-## PolyBase
-
-SQL pools in Azure Synapse Analytics include **PolyBase**, which enables you to define external tables based on files in a data lake (and other sources) and query them using SQL. 
-
-Synapse Analytics also supports a Lake Database approach in which you can use database templates to define the relational schema of your data warehouse, while storing the underlying data in data lake storage (separating the storage and compute for your data warehousing solution).
