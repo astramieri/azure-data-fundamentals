@@ -1,4 +1,4 @@
-# Describe Power BI tools and workflow
+# Power BI tools and workflow
 
 **Microsoft Power BI** is a suite of tools and services that data analysts can use to build interactive data visualizations for business users to consume.
 

@@ -1,4 +1,4 @@
-# Explore Apache Spark on Microsoft Azure
+# Apache Spark on Microsoft Azure
 
 **Apache Spark** is a distributed processing framework for large scale data analytics. 
 

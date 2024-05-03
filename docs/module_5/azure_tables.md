@@ -1,4 +1,4 @@
-# Explore Azure Tables
+# Azure Tables
 
 **Azure Table Storage** is a NoSQL storage solution that makes use of tables containing key/value data items. Each item is represented by a row that contains columns for the data fields that need to be stored.
 

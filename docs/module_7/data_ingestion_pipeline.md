@@ -1,4 +1,4 @@
-# Explore data ingestion pipelines
+# Data ingestion pipelines
 
 On Azure, large-scale data ingestion is best implemented by creating **pipelines** that orchestrate ETL processes. 
 

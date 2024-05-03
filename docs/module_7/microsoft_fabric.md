@@ -1,4 +1,4 @@
-# Explore Microsoft Fabric
+# Microsoft Fabric
 
 **Microsoft Fabric** is a unified software-as-a-service (SaaS) offering with all your data stored in a single open format in OneLake.
 

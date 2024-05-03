@@ -1,4 +1,4 @@
-# Explore Azure Data Lake Storage Gen2
+# Azure Data Lake Storage Gen2
 
 Azure Data Lake Store (Gen1) is a separate service for hierarchical data storage for analytical data lakes, often used by so-called big data analytical solutions that work with structured, semi-structured, and unstructured data stored in files. 
 

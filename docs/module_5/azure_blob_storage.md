@@ -1,4 +1,4 @@
-# Explore Azure Blob Storage
+# Azure Blob Storage
 
 **Azure Blob Storage** is a service that enables you to store massive amounts of unstructured data as binary large objects (i.e. blobs) in the cloud. 
 

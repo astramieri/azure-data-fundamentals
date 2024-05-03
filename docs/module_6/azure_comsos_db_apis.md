@@ -1,4 +1,4 @@
-# Identify Azure Cosmos DB APIs
+# Azure Cosmos DB APIs
 
 Azure Cosmos DB is a fully managed and serverless distributed database for applications of any size or scale, with **support for both relational and non-relational workloads**. 
 

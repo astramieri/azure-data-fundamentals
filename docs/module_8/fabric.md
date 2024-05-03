@@ -1,4 +1,4 @@
-# Explore Realtime Analytics in Microsoft Fabric
+# Realtime Analytics in Microsoft Fabric
 
 **Microsoft Fabric** includes native support for real-time data analytics, including real-time data ingestion from multiple streaming sources.
 

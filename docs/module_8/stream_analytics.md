@@ -1,4 +1,4 @@
-# Explore Azure Stream Analytics
+# Azure Stream Analytics
 
 **Azure Stream Analytics** is a service for complex event processing and analysis of streaming data. 
 

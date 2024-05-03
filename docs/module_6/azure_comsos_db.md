@@ -1,4 +1,4 @@
-# Describe Azure Cosmos DB
+# Azure Cosmos DB
 
 **Azure Cosmos DB** supports multiple application programming interfaces (APIs) that enable developers to use the programming semantics of many common kinds of data store to work with data in a Cosmos DB database. 
 

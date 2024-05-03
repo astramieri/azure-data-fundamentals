@@ -1,4 +1,4 @@
-# Describe core concepts of data modeling
+# Core concepts of data modeling
 
 Analytical models enable you to structure data to support analysis. 
 

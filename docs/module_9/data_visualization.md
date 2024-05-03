@@ -1,4 +1,4 @@
-# Describe considerations for data visualization
+# Considerations for data visualization
 
 Power BI includes an extensive set of built-in visualizations, which can be extended with custom and third-party visualizations.
 

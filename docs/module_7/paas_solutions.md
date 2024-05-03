@@ -1,4 +1,4 @@
-# Explore platform-as-a-service (PaaS) solutions
+# Platform-as-a-service (PaaS) solutions
 
 On Azure, there are three main platform-as-a-service (PaaS) services that you can use to implement a large-scale analytics:
 - Azure Synapse Analytics

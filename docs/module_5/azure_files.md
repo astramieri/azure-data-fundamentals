@@ -1,4 +1,4 @@
-# Explore Azure Files
+# Azure Files
 
 **Azure Files** is essentially a way to create cloud-based network shares, such as you typically find in on-premises organizations to make documents and other files available to multiple users. 
 
