@@ -40,3 +40,7 @@ A data model can be:
 - Physical
 
 Data modeling is the process used to **define and analyze data requirements needed to support the business processes** within the scope of corresponding information systems in organizations.
+
+## Data masking
+
+Data Masking is when a request for **data is transformed to mask sensitive data**.
