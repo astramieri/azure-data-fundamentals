@@ -41,6 +41,10 @@ During setup of SQL Server Database you must select an **authentication mode**:
 
 Transparent Data Encryption (TDE) protects Azure SQL database, Azure Synapse Analytics, and Azure SQL Managed Instance against malicious offline activities by *encrypting the data at rest*.
 
+## Azure Defender for SQL
+
+Azure Defender for SQL is a unified package for advanced SQL security capabilites for **Vulnerability Assessment** and **Advanced Threat Protection**.
+
 ## Azure SQL Database Firewall
 
 The **Azure SQL Database firewall** lets you decide which IP addresses may or may not have access to either your Azure SQL Server or your Azure SQL database. 
