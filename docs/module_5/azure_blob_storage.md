@@ -6,13 +6,23 @@ Blobs are an efficient way to store data files in a format that is optimized for
 
 In an **Azure Storage Account**, you store blobs in **containers**. A container provides a convenient way of grouping related blobs together. You control who can read and write blobs inside a container at the container level.
 
+    https://mystorageaccount.blob.core.windows.net
+
+- AzureStorageAccount
+    - Container1
+        - Blob2
+        - Folder1/Blob2
+    - Container2
+        - Folder2/Blob3
+        - Folder2/Blob4
+
 Within a container, you can organize blobs in a hierarchy of virtual folders, similar to files in a file system on disk. However *by default* these folders are simply a way of using a "/" character in a blob name to organize the blobs into namespaces. The **folders are purely virtual**, and you can't perform folder-level operations to control access or perform bulk operations.
 
 Objects in Blob storage are accessible via:
 - Azure Storage REST API
+- Azure Storage client library
 - Azure PowerShell
 - Azure CLI
-- Azure Storage client library
 
 ![Azure Blob Storage](azure_blob_storage.png)
 
@@ -24,7 +34,7 @@ Azure Blob Storage supports three different types of blob:
 - **page**
     - a page blob is optimized to support random read and write operations
     - a page blob can hold up to 8 TB of data
-    - Azure uses page blobs to implement virtual disk storage for virtual machines
+    - Azure uses page blobs to implement virtual disk storage (VHD) for virtual machines
 - **append**: 
     - an append blob is a block blob optimized to support append operations
     - you can only add blocks to the end of an append blob
