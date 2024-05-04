@@ -20,6 +20,23 @@
 - **Azure SQL Edge** 
     - A SQL engine that is optimized for Internet-of-things (IoT) scenarios that need to work with streaming time-series data
 
+## Connectivity Architecture
+
+When a connection from a server to an Azure SQL database, the client will connect to a **gateway that listen on port 1443**. Baes on the connection policiy the gateway will grant traffic and route access to the appropriate database.
+
+The are three kinds of connection policies:
+- **proxy**: intended for workloads connecting *outside* the Azure Network
+- **redirect**: intended for workloads connecting *inside* the Azure Network
+- **default**: based on workloads inside or outside the Azure Network
+
+## SQL Server Authentication
+
+During setup of SQL Server Database you must select an **authentication mode**:
+- **Windows Authentication Mode** (recommended)
+    - enables Windows Authentication and disables SQL Server Authentication
+- **Mixed Mode**
+    - enables both Windows Authentication and SQL Server Authentication
+
 ## Transparent Data Encryption (TDE)
 
 Transparent Data Encryption (TDE) protects Azure SQL database, Azure Synapse Analytics, and Azure SQL Managed Instance against malicious offline activities by *encrypting the data at rest*.
