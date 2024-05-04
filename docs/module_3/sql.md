@@ -12,7 +12,13 @@ Some popular dialects of SQL include:
 ## SQL statement types
 
 SQL statements are grouped into three main logical groups:
-- Data Control Language (DCL)
-- Data Definition Language (DDL)
-- Data Manipulation Language (DML)
-- Transaction Control Language (TCL)
+- **Data Definition Language (DDL)**
+    - used to define the database schema
+- **Data Query Language (DQL)**
+    - used for performing queries on the data
+- **Data Control Language (DCL)**
+    - used to define rights, permissions and other controls
+- **Data Manipulation Language (DML)**
+    - used to manipule data in the database
+- **Transaction Control Language (TCL)**
+    - used for controlling transaction within the database
