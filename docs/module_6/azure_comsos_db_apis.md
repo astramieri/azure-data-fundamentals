@@ -42,6 +42,8 @@ MongoDB is a popular open source database in which **data is stored in Binary JS
 
 MongoDB Query Language (MQL) uses **a compact object-oriented syntax** in which developers use objects to call methods. 
 
+The MongoDB API is queried by using MongoDB Query Language (MQL). 
+
 #### JavaScript Input
 
     db.products.find({id: 123})
@@ -68,6 +70,8 @@ PostgreSQL is a relational database management system (RDBMS) in which you defin
 
 It offers **greater scalability** and performance than Azure Table Storage and provides resiliency if an Azure region declines. 
 
+The Table API is queried by using OData and LINQ queries.
+
 ## Azure Cosmos DB for Apache Cassandra
 
 **Azure Cosmos DB for Apache Cassandra** is compatible with Apache Cassandra, which is a popular open source database that uses a column-family storage structure. 
@@ -79,3 +83,5 @@ The Cassandra API is queried by using SQL.
 ## Azure Cosmos DB for Apache Gremlin
 
 **Azure Cosmos DB for Apache Gremlin** is used with data in a **graph structure** in which entities are defined as vertices that form nodes in connected graph.
+
+The Gremlin API is queried by using Graph. 
