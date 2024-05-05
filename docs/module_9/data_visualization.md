@@ -35,3 +35,7 @@ These charts are best suited when comparing a few categories only. When you have
 Scatter plots are useful when you want to compare two numeric measures and identify a relationship or correlation between them.
 
 ![Scatter plots](./scatter_plots.png)
+
+## Key influencers charts
+
+Key influencers charts allow you to understand the factors that affect a key metric.
