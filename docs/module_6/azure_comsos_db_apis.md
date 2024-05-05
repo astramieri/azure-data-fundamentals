@@ -40,9 +40,7 @@ It manages data in JSON document format, and despite being a NoSQL data storage 
 
 MongoDB is a popular open source database in which **data is stored in Binary JSON (BSON) format**. 
 
-MongoDB Query Language (MQL) uses **a compact object-oriented syntax** in which developers use objects to call methods. 
-
-The MongoDB API is queried by using MongoDB Query Language (MQL). 
+The MongoDB API is queried by using MongoDB Query Language (MQL). MQL uses **a compact object-oriented syntax** in which developers use objects to call methods. 
 
 #### JavaScript Input
 
@@ -68,7 +66,7 @@ PostgreSQL is a relational database management system (RDBMS) in which you defin
 
 **Azure Cosmos DB for Table** is used to work with data in **key-value tables** similar to Azure Table Storage. 
 
-It offers **greater scalability** and performance than Azure Table Storage and provides resiliency if an Azure region declines. 
+It offers **greater scalability and performance** than Azure Table Storage and provides **resiliency** if an Azure region declines. 
 
 The Table API is queried by using OData and LINQ queries.
 
