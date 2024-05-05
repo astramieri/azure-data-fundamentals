@@ -22,9 +22,11 @@ Line charts can also be used to compare categorized values and are useful when y
 
 ![Line charts](./line_charts.png)
 
-## Pie charts
+## Pie and doughnut charts
 
-Pie charts are often used in business reports to visually compare categorized values as proportions of a total.
+Pie and doughnut charts are often used in business reports to visually compare categorized values as proportions of a total. 
+
+These charts are best suited when comparing a few categories only. When you have more than eight categories, reading and interpreting becomes quite difficult.
 
 ![Pie charts](./pie_charts.png)
 
