@@ -19,9 +19,9 @@ You can upload files to Azure File Storage using:
 
 Azure File Storage offers two performance tiers:
 - **standard tier** uses hard disk-based hardware in a datacenter
-- **premium tier** uses solid-state disks. 
+- **premium tier** uses solid-state disks
 
-The Premium tier offers greater throughput, but is charged at a higher rate.
+The premium tier offers greater throughput, but is charged at a higher rate.
 
 ## Azure Files Sharing Protocols
 
