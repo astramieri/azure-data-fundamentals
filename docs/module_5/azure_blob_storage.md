@@ -6,6 +6,8 @@ Blobs are an efficient way to store data files in a format that is optimized for
 
 In an **Azure Storage Account**, you store blobs in **containers**. A container provides a convenient way of grouping related blobs together. You control who can read and write blobs inside a container at the container level.
 
+Within a container, you can organize blobs in a hierarchy of virtual folders, similar to files in a file system on disk. However *by default* these folders are simply a way of using a "/" character in a blob name to organize the blobs into namespaces. The **folders are purely virtual**, and you can't perform folder-level operations to control access or perform bulk operations.
+
     https://mystorageaccount.blob.core.windows.net
 
 - AzureStorageAccount
@@ -16,15 +18,11 @@ In an **Azure Storage Account**, you store blobs in **containers**. A container 
         - Folder2/Blob3
         - Folder2/Blob4
 
-Within a container, you can organize blobs in a hierarchy of virtual folders, similar to files in a file system on disk. However *by default* these folders are simply a way of using a "/" character in a blob name to organize the blobs into namespaces. The **folders are purely virtual**, and you can't perform folder-level operations to control access or perform bulk operations.
-
 Objects in Blob storage are accessible via:
 - Azure Storage REST API
-- Azure Storage client library
+- Azure Storage Client Library
 - Azure PowerShell
 - Azure CLI
-
-![Azure Blob Storage](azure_blob_storage.png)
 
 ## Types of blob data
 
@@ -45,14 +43,14 @@ Azure Blob Storage supports three different types of blob:
 
 Blob storage provides three access tiers, which help to balance access latency and storage cost:
 - **Hot tier**
-    - it is the default
+    - it is the **default**
     - it is used for blobs that are accessed frequently
 - **Cool tier**
     - lower performance and reduced storage charges (compare to Hot tier)
     - it is used for blobs that are accessed infrequently
 - **Archive tier**
     - it provides the lowest storage cost, but with increased latency
-    - it is intended for historical data that mustn't be lost, but is required only rarely
+    - it is intended for historical data that must not be lost, but is required only rarely
     - blobs in the Archive tier are effectively stored in an **offline state** 
 
 ## Lifecycle Management Policies
